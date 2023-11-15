@@ -1,0 +1,12 @@
+C:\Users\yogesh.yadav_intern\source\repos\SortedList\SortedList\bin\Debug\netcoreapp2.2\SortedList.deps.json
+C:\Users\yogesh.yadav_intern\source\repos\SortedList\SortedList\bin\Debug\netcoreapp2.2\SortedList.runtimeconfig.json
+C:\Users\yogesh.yadav_intern\source\repos\SortedList\SortedList\bin\Debug\netcoreapp2.2\SortedList.runtimeconfig.dev.json
+C:\Users\yogesh.yadav_intern\source\repos\SortedList\SortedList\bin\Debug\netcoreapp2.2\SortedList.dll
+C:\Users\yogesh.yadav_intern\source\repos\SortedList\SortedList\bin\Debug\netcoreapp2.2\SortedList.pdb
+C:\Users\yogesh.yadav_intern\source\repos\SortedList\SortedList\obj\Debug\netcoreapp2.2\SortedList.csproj.AssemblyReference.cache
+C:\Users\yogesh.yadav_intern\source\repos\SortedList\SortedList\obj\Debug\netcoreapp2.2\SortedList.AssemblyInfoInputs.cache
+C:\Users\yogesh.yadav_intern\source\repos\SortedList\SortedList\obj\Debug\netcoreapp2.2\SortedList.AssemblyInfo.cs
+C:\Users\yogesh.yadav_intern\source\repos\SortedList\SortedList\obj\Debug\netcoreapp2.2\SortedList.csproj.CoreCompileInputs.cache
+C:\Users\yogesh.yadav_intern\source\repos\SortedList\SortedList\obj\Debug\netcoreapp2.2\SortedList.dll
+C:\Users\yogesh.yadav_intern\source\repos\SortedList\SortedList\obj\Debug\netcoreapp2.2\SortedList.pdb
+C:\Users\yogesh.yadav_intern\source\repos\SortedList\SortedList\obj\Debug\netcoreapp2.2\SortedList.genruntimeconfig.cache

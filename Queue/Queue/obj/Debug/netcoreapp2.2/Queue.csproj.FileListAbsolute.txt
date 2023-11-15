@@ -1,0 +1,11 @@
+C:\Users\yogesh.yadav_intern\source\repos\Queue\Queue\obj\Debug\netcoreapp2.2\Queue.AssemblyInfoInputs.cache
+C:\Users\yogesh.yadav_intern\source\repos\Queue\Queue\obj\Debug\netcoreapp2.2\Queue.AssemblyInfo.cs
+C:\Users\yogesh.yadav_intern\source\repos\Queue\Queue\obj\Debug\netcoreapp2.2\Queue.csproj.CoreCompileInputs.cache
+C:\Users\yogesh.yadav_intern\source\repos\Queue\Queue\bin\Debug\netcoreapp2.2\Queue.deps.json
+C:\Users\yogesh.yadav_intern\source\repos\Queue\Queue\bin\Debug\netcoreapp2.2\Queue.runtimeconfig.json
+C:\Users\yogesh.yadav_intern\source\repos\Queue\Queue\bin\Debug\netcoreapp2.2\Queue.runtimeconfig.dev.json
+C:\Users\yogesh.yadav_intern\source\repos\Queue\Queue\bin\Debug\netcoreapp2.2\Queue.dll
+C:\Users\yogesh.yadav_intern\source\repos\Queue\Queue\bin\Debug\netcoreapp2.2\Queue.pdb
+C:\Users\yogesh.yadav_intern\source\repos\Queue\Queue\obj\Debug\netcoreapp2.2\Queue.dll
+C:\Users\yogesh.yadav_intern\source\repos\Queue\Queue\obj\Debug\netcoreapp2.2\Queue.pdb
+C:\Users\yogesh.yadav_intern\source\repos\Queue\Queue\obj\Debug\netcoreapp2.2\Queue.genruntimeconfig.cache

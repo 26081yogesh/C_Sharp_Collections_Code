@@ -1,0 +1,11 @@
+C:\Users\yogesh.yadav_intern\source\repos\Stack\Stack\bin\Debug\netcoreapp2.2\Stack.deps.json
+C:\Users\yogesh.yadav_intern\source\repos\Stack\Stack\bin\Debug\netcoreapp2.2\Stack.runtimeconfig.json
+C:\Users\yogesh.yadav_intern\source\repos\Stack\Stack\bin\Debug\netcoreapp2.2\Stack.runtimeconfig.dev.json
+C:\Users\yogesh.yadav_intern\source\repos\Stack\Stack\bin\Debug\netcoreapp2.2\Stack.dll
+C:\Users\yogesh.yadav_intern\source\repos\Stack\Stack\bin\Debug\netcoreapp2.2\Stack.pdb
+C:\Users\yogesh.yadav_intern\source\repos\Stack\Stack\obj\Debug\netcoreapp2.2\Stack.AssemblyInfoInputs.cache
+C:\Users\yogesh.yadav_intern\source\repos\Stack\Stack\obj\Debug\netcoreapp2.2\Stack.AssemblyInfo.cs
+C:\Users\yogesh.yadav_intern\source\repos\Stack\Stack\obj\Debug\netcoreapp2.2\Stack.csproj.CoreCompileInputs.cache
+C:\Users\yogesh.yadav_intern\source\repos\Stack\Stack\obj\Debug\netcoreapp2.2\Stack.dll
+C:\Users\yogesh.yadav_intern\source\repos\Stack\Stack\obj\Debug\netcoreapp2.2\Stack.pdb
+C:\Users\yogesh.yadav_intern\source\repos\Stack\Stack\obj\Debug\netcoreapp2.2\Stack.genruntimeconfig.cache

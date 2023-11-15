@@ -1,0 +1,12 @@
+D:\C# Collections\ArrayList\ArrayList\bin\Debug\netcoreapp2.2\ArrayList.deps.json
+D:\C# Collections\ArrayList\ArrayList\bin\Debug\netcoreapp2.2\ArrayList.runtimeconfig.json
+D:\C# Collections\ArrayList\ArrayList\bin\Debug\netcoreapp2.2\ArrayList.runtimeconfig.dev.json
+D:\C# Collections\ArrayList\ArrayList\bin\Debug\netcoreapp2.2\ArrayList.dll
+D:\C# Collections\ArrayList\ArrayList\bin\Debug\netcoreapp2.2\ArrayList.pdb
+D:\C# Collections\ArrayList\ArrayList\obj\Debug\netcoreapp2.2\ArrayList.csproj.AssemblyReference.cache
+D:\C# Collections\ArrayList\ArrayList\obj\Debug\netcoreapp2.2\ArrayList.AssemblyInfoInputs.cache
+D:\C# Collections\ArrayList\ArrayList\obj\Debug\netcoreapp2.2\ArrayList.AssemblyInfo.cs
+D:\C# Collections\ArrayList\ArrayList\obj\Debug\netcoreapp2.2\ArrayList.csproj.CoreCompileInputs.cache
+D:\C# Collections\ArrayList\ArrayList\obj\Debug\netcoreapp2.2\ArrayList.dll
+D:\C# Collections\ArrayList\ArrayList\obj\Debug\netcoreapp2.2\ArrayList.pdb
+D:\C# Collections\ArrayList\ArrayList\obj\Debug\netcoreapp2.2\ArrayList.genruntimeconfig.cache
